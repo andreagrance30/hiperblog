@@ -3,4 +3,4 @@ programacion
 Tambien del controlador de versiones git 
 clases de phyton a los 25 años 
 en proceso de finalizar el proyecto 
-de eventos y ferreteria
+de aprender git hub
